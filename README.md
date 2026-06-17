@@ -1,0 +1,2 @@
+# wealthmind-ai
+wealthmind-ai
